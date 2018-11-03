@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/filipe/CLionProjects/Trabalho\ 2\ -\ CG\ 2018.2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/filipe/CLionProjects/Trabalho\ 2\ -\ CG\ 2018.2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/filipe/CLionProjects/Trabalho\ 2\ -\ CG\ 2018.2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/filipe/CLionProjects/Trabalho\ 2\ -\ CG\ 2018.2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/filipe/CLionProjects/Trabalho\ 2\ -\ CG\ 2018.2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/filipe/CLionProjects/Trabalho\ 2\ -\ CG\ 2018.2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/filipe/CLionProjects/Trabalho\ 2\ -\ CG\ 2018.2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/filipe/CLionProjects/Trabalho\ 2\ -\ CG\ 2018.2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/filipe/CLionProjects/Trabalho\ 2\ -\ CG\ 2018.2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/filipe/CLionProjects/Trabalho\ 2\ -\ CG\ 2018.2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/filipe/CLionProjects/Trabalho\ 2\ -\ CG\ 2018.2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/filipe/CLionProjects/Trabalho\ 2\ -\ CG\ 2018.2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Trabalho2_CG2018.2">
+				<Option output="/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/cmake-build-debug/Trabalho2_CG2018.2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/filipe/CLionProjects/Trabalho\ 2\ -\ CG\ 2018.2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Trabalho2_CG2018.2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/filipe/CLionProjects/Trabalho\ 2\ -\ CG\ 2018.2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/filipe/CLionProjects/Trabalho\ 2\ -\ CG\ 2018.2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/filipe/CLionProjects/Trabalho\ 2\ -\ CG\ 2018.2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Trabalho2_CG2018.2/fast">
+				<Option output="/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/cmake-build-debug/Trabalho2_CG2018.2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/filipe/CLionProjects/Trabalho\ 2\ -\ CG\ 2018.2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Trabalho2_CG2018.2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/filipe/CLionProjects/Trabalho\ 2\ -\ CG\ 2018.2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/filipe/CLionProjects/Trabalho\ 2\ -\ CG\ 2018.2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/filipe/CLionProjects/Trabalho\ 2\ -\ CG\ 2018.2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Circle.h">
+			<Option target="Trabalho2_CG2018.2"/>
+		</Unit>
+		<Unit filename="/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Color.h">
+			<Option target="Trabalho2_CG2018.2"/>
+		</Unit>
+		<Unit filename="/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Edge.h">
+			<Option target="Trabalho2_CG2018.2"/>
+		</Unit>
+		<Unit filename="/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/HalfEdge.h">
+			<Option target="Trabalho2_CG2018.2"/>
+		</Unit>
+		<Unit filename="/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Item.h">
+			<Option target="Trabalho2_CG2018.2"/>
+		</Unit>
+		<Unit filename="/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/LineStrip.h">
+			<Option target="Trabalho2_CG2018.2"/>
+		</Unit>
+		<Unit filename="/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Point.h">
+			<Option target="Trabalho2_CG2018.2"/>
+		</Unit>
+		<Unit filename="/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Polygon.h">
+			<Option target="Trabalho2_CG2018.2"/>
+		</Unit>
+		<Unit filename="/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Screen.h">
+			<Option target="Trabalho2_CG2018.2"/>
+		</Unit>
+		<Unit filename="/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Vector.h">
+			<Option target="Trabalho2_CG2018.2"/>
+		</Unit>
+		<Unit filename="/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/main.cpp">
+			<Option target="Trabalho2_CG2018.2"/>
+		</Unit>
+		<Unit filename="/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,168 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Color.h
+string
+-
+math.h
+-
+iostream
+-
+algorithm
+-
+tuple
+-
+
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Edge.h
+
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/HalfEdge.h
+Item.h
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Item.h
+Polygon.h
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Polygon.h
+
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Item.h
+memory
+-
+map
+-
+list
+-
+iostream
+-
+memory
+-
+algorithm
+-
+bits/unique_ptr.h
+-
+
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/LineStrip.h
+iostream
+-
+GL/freeglut.h
+-
+GL/gl.h
+-
+Item.h
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Item.h
+Vector.h
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Vector.h
+Color.h
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Color.h
+Screen.h
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Screen.h
+
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Point.h
+utility
+-
+GL/gl.h
+-
+iostream
+-
+memory
+-
+Screen.h
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Screen.h
+Polygon.h
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Polygon.h
+Vector.h
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Vector.h
+Item.h
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Item.h
+Color.h
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Color.h
+Edge.h
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Edge.h
+HalfEdge.h
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/HalfEdge.h
+
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Polygon.h
+utility
+-
+Item.h
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Item.h
+Vector.h
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Vector.h
+Color.h
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Color.h
+LineStrip.h
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/LineStrip.h
+Screen.h
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Screen.h
+GL/glut.h
+-
+GL/gl.h
+-
+
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Screen.h
+utility
+-
+Vector.h
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Vector.h
+GL/gl.h
+-
+GL/glut.h
+-
+functional
+-
+Item.h
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Item.h
+Color.h
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Color.h
+iostream
+-
+map
+-
+list
+-
+
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Vector.h
+math.h
+-
+bits/unique_ptr.h
+-
+Item.h
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Item.h
+
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/main.cpp
+memory
+-
+memory
+-
+stdlib.h
+-
+string
+-
+iostream
+-
+GL/gl.h
+-
+GL/glut.h
+-
+iostream
+-
+memory
+-
+math.h
+-
+random
+-
+Vector.h
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Vector.h
+Screen.h
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Screen.h
+Color.h
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Color.h
+LineStrip.h
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/LineStrip.h
+Polygon.h
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Polygon.h
+Point.h
+/home/filipe/CLionProjects/Trabalho 2 - CG 2018.2/Point.h
+
